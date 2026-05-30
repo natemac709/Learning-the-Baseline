@@ -73,3 +73,7 @@ To ensure the system remains deeply anchored in localized, high-trust community 
 
 ## Legal Disclaimer & Non-Commercial Notice
 This framework is provided completely "as-is" for educational, non-commercial, open-source research purposes only. The author assumes no liability for digital device firmware stability, physical manufacturing injuries incurred during personal prototyping, or user attention outcomes. All scriptural records are utilized under fair-use commentary parameters. Learning the Baseline is an independent, non-commercial open-source research initiative. All product names, logos, and brands are property of their respective owners.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share and adapt this material for non-commercial purposes, provided appropriate credit is given.
