@@ -1,0 +1,20 @@
+{
+  "repository": "learning-the-baseline",
+  "framework_version": "1.0.0",
+  "canvas": {
+    "width_px": 1290,
+    "height_px": 2796,
+    "color_hex": "#000000"
+  },
+  "typography": {
+    "font_family": "JetBrains Mono",
+    "color_hex": "#FFFFFF",
+    "rendering": "aliased_sharp"
+  },
+  "zoning_constraints": {
+    "system_clock_buffer_top_px": 700,
+    "active_viewport_start_y_px": 1850,
+    "active_viewport_end_y_px": 2370,
+    "system_home_indicator_bottom_px": 420
+  }
+}
