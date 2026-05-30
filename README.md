@@ -4,6 +4,24 @@ An open-source, analog behavioral architecture framework designed to mitigate di
 
 ---
 
+## ── UNIVERSAL HOME MANUAL ──
+### For Kids, Parents, and Grandparents (Smart or Not)
+
+You do not need to know how to code, build software, or understand engineering to use this system. At its simplest, this framework is a **Digital Circuit Breaker** for your home. It is a shared family pact to protect our minds, our time, and our attention from being completely swallowed by glowing screens.
+
+
+| For Children 🎒 | For Parents & Grandparents 🏡 | For Every Household 💻 |
+| :--- | :--- | :--- |
+| **Look at your screen shield.** When you turn on your phone, look at the big words first. Remember that you are loved, you are secure, and you are free to put the phone down to play and think. | **Set a quiet baseline.** Help your child choose one single, unchanging truth or rule every Sunday night. Lock it onto their device to protect them from constant digital noise. | **Commit to the 7-Day Rule.** Once the weekly image is locked on the screen, no one changes it, tweaks it, or hides it for 7 full days. It becomes a shared family boundary. |
+
+### The Concept: The Desk Shield & The Glass Viewport
+Think of this system like a heavy picture frame bolted directly onto a school desk, workspace, or kitchen table. Your phone slides deep inside it. 
+* **The Shield:** Covers up all the flashing apps, red notification dots, and distracting games.
+* **The Glass Window:** Only lets you see **one single line of text** sitting at the bottom of your screen, safely clearing your app shortcuts and search bars. 
+* **The Result:** For one whole week, that single line of text becomes your anchor. It forces the device to stop being a slot machine for your attention and turns it into a quiet tool that points you back to real-world relationships.
+
+---
+
 ## 1. Executive Summary & Project Charter
 
 ### Executive Summary
@@ -29,7 +47,7 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 ## 2. Visual & Hardware Specification Rules
 - **Canvas Matrix:** 1290 × 2796 pixels (#000000 True-Black canvas layer).
 - **Typography:** Pure White (#FFFFFF), geometric monospaced font (e.g., JetBrains Mono).
-- **Boundary Window:** Pinned strictly between vertical coordinates y=1850 and y=2370.
+- **Boundary Window:** Pinned strictly between vertical coordinates y=1400 and y=1850 (Calibrated for Google Pixel Android dock clearance).
 
 ### Physical Chassis Blueprint (Prototype No. 001)
 - **Mechanical Viewport Dimension:** 1.50" Height × 4.50" Width cut precisely in the lower third coordinate (33.3% from bottom edge).
