@@ -53,11 +53,11 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 - **Mechanical Viewport Dimension:** 1.50" Height × 4.50" Width cut precisely in the lower third coordinate (33.3% from bottom edge).
 - **Retention Enclosure:** Left, right, and bottom borders driven tight with industrial oxidized steel screws. High-friction card slot left open exclusively at the top boundary.
 
-
-graph TD
-    %% Canvas Layer Definition
-    subgraph Canvas_Matrix [1290 × 2796 Canvas Matrix]
-        A[#000000 True-Black Canvas] --> B[Pure White Monospaced Typography]
+```mermaid
+graph TD 
+    %% Canvas Layer Definition 
+    subgraph Canvas_Matrix [1290 × 2796 Canvas Matrix] 
+        A[#000000 True-Black Canvas] --> B[Pure White Monospaced Typography] 
     end
 
     %% Physical Hardware Chassis Layer
@@ -83,6 +83,7 @@ graph TD
     style Canvas_Matrix fill:#111,stroke:#333,stroke-width:2px;
     style Physical_Chassis fill:#222,stroke:#555,stroke-width:2px;
     style Monday_Drop_Loop fill:#0d1117,stroke:#58a6ff,stroke-width:2px;
+```
 
 ---
 
