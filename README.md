@@ -51,13 +51,13 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 
 ### Physical Chassis Blueprint (Prototype No. 001)
 - **Mechanical Viewport Dimension:** 1.50" Height × 4.50" Width cut precisely in the lower third coordinate (33.3% from bottom edge).
-- **Retention Enclosure:** Left, right, and bottom borders driven tight with industrial oxidized steel screws. High-friction card slot left open exclusively at the top boundary.
+- **Retention Enclosure:** Left, right, and bottom borders driven tight with industrial oxidized steel screws. High-friction card slot left open exclusively at the top boundary. 
 
 ```mermaid
-graph TD 
-    %% Canvas Layer Definition 
-    subgraph Canvas_Matrix [1290 × 2796 Canvas Matrix] 
-        A[#000000 True-Black Canvas] --> B[Pure White Monospaced Typography] 
+graph TD
+    %% Canvas Layer Definition
+    subgraph Canvas_Matrix [1290 × 2796 Canvas Matrix]
+        A[#000000 True-Black Canvas] --> B[Pure White Monospaced Typography]
     end
 
     %% Physical Hardware Chassis Layer
