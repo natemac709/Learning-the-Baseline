@@ -55,37 +55,33 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 
 ```mermaid
 graph TD
-    %% Left Side: The Infinite Digital Loop (The Pathology)
-    subgraph Algorithmic_Capture [ALGORITHMIC CAPTURE LAYER]
-        A1[Infinite Processing Pipeline] --> A2[Notification Streams]
-        A2 --> A3[High-Velocity Info Loops]
-        A3 --> A4[Chronic Cognitive Exhaustion]
+    %% Phase 1: Input Isolation
+    subgraph Phase_1 [1. INPUT ISOLATION]
+        A1[Target Text Selection] --> A2[True-Black Canvas Layer]
+        A2 --> A3[Complete Peripheral Occlusion]
     end
 
-    %% The Heavy Physical Intercept (The Shield)
-    subgraph Physical_Enclosure [THE DISRUPTION CHOKEPOINT]
-        B1[Heavy Matte-Slate Casing] --> B2[Absolute Physical Containment]
-        B2 --> B3[THE DESK SHIELD: Blocks Apps]
+    %% Phase 2: Mechanical Intercept
+    subgraph Phase_2 [2. MECHANICAL INTERCEPT]
+        B1[Physical Device Enclosure] --> B2[Hardware Viewport Masking]
+        B2 --> B3[Forced Focal Alignment]
     end
 
-    %% Right Side: The Isolation Loop (The Baseline)
-    subgraph Visual_Viewport [THE COGNITIVE DECELERATION LOOP]
-        C1[1.50x4.50 inch Mechanical Cutout] --> C2[Fixed Coordinates: y=1400-1850]
-        C2 --> C3[Single Unchanging Line of Truth]
-        C3 --> C4[7-Day Immutable Constraint]
+    %% Phase 3: Temporal Enforcement
+    subgraph Phase_3 [3. TEMPORAL ENFORCEMENT]
+        C1[7-Day Immutable Lock Screen State] --> C2[Relational Accountability Check-In]
+        C2 --> C3[Systematic Reset Loop]
     end
 
-    %% Cross-Subgraph System Flow Connections
-    A4 --> B1
-    B3 --> C1
-    C4 --> D1[FINISHED, QUIET COGNITIVE BASELINE]
+    %% System Architecture Flow
+    A3 ===>|Structural Integration| B1
+    B3 ===>|Operational Invariant| C1
 
-    %% Minimalist Dark System Aesthetics
-    classDef default fill:#161b22,stroke:#30363d,stroke-width:1px,color:#c9d1d9,font-family:monospace;
-    style Algorithmic_Capture fill:#1a1111,stroke:#f87171,stroke-width:1px,color:#f87171;
-    style Physical_Enclosure fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff;
-    style Visual_Viewport fill:#111c14,stroke:#22c55e,stroke-width:1px,color:#4ade80;
-    style D1 fill:#000000,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+    %% High-Dignity Architecture Styling
+    classDef default fill:#111,stroke:#333,stroke-width:1px,color:#999,font-family:monospace;
+    style Phase_1 fill:#0d1117,stroke:#21262d,stroke-width:1px,color:#c9d1d9;
+    style Phase_2 fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9;
+    style Phase_3 fill:#0d1117,stroke:#238636,stroke-width:1px,color:#4ade80;
 ```
 
 ---
