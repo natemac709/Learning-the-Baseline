@@ -55,48 +55,37 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 
 ```mermaid
 graph TD
-    %% Canvas Layer Definition
-    subgraph Canvas_Matrix [1290 × 2796 Canvas Matrix]
-        A[#000000 True-Black Canvas] --> B[Pure White Monospaced Typography]
+    %% Left Side: The Infinite Digital Loop (The Pathology)
+    subgraph Algorithmic_Capture [ALGORITHMIC CAPTURE LAYER]
+        A1[Infinite Processing Pipeline] --> A2[Notification Streams]
+        A2 --> A3[High-Velocity Info Loops]
+        A3 --> A4[Chronic Cognitive Exhaustion]
     end
 
-    %% Physical Hardware Chassis Layer
-    subgraph Physical_Chassis [Hardware Enclosure Prototype 001]
-        C[Top-Loading High-Friction Slot] --> D[Oxidized Steel Screw Borders]
-        D --> E[1.50 inch x 4.50 inch Mechanical Viewport]
+    %% The Heavy Physical Intercept (The Shield)
+    subgraph Physical_Enclosure [THE DISRUPTION CHOKEPOINT]
+        B1[Heavy Matte-Slate Casing] --> B2[Absolute Physical Containment]
+        B2 --> B3[THE DESK SHIELD: Blocks Apps]
     end
 
-    %% Device Integration
-    B -->|Device Slides In| C
-    E -->|Locks Visual Field| F[Pinned Coordinates: y=1400 to y=1850]
-
-    %% The 7-Day Monday Drop Loop
-    subgraph Monday_Drop_Loop [Operational Control Loop]
-        F --> G[The Pull: Download Asset]
-        G --> H[The Override: Set as Lock Screen]
-        H --> I[The Constraint: 7-Day Unchanging State]
-        I -->|Communal Accountability| J[The Reset: Monday Drop]
-        J --> G
+    %% Right Side: The Isolation Loop (The Baseline)
+    subgraph Visual_Viewport [THE COGNITIVE DECELERATION LOOP]
+        C1[1.50x4.50 inch Mechanical Cutout] --> C2[Fixed Coordinates: y=1400-1850]
+        C2 --> C3[Single Unchanging Line of Truth]
+        C3 --> C4[7-Day Immutable Constraint]
     end
 
-    %% ==========================================
-    %% MINIMALIST SYSTEM ARCHITECTURE STYLING
-    %% ==========================================
-    
-    %% Global Element Settings
-    classDef default fill:#161b22,stroke:#30363d,stroke-width:1px,color:#c9d1d9,font-family:monospace,font-size:11px;
-    
-    %% Specific Container Style Variables
-    style Canvas_Matrix fill:#090d13,stroke:#21262d,stroke-width:1px,stroke-dasharray: 3 3,color:#8b949e,font-family:monospace;
-    style Physical_Chassis fill:#090d13,stroke:#30363d,stroke-width:1px,color:#8b949e,font-family:monospace;
-    style Monday_Drop_Loop fill:#0d1117,stroke:#238636,stroke-width:1px,color:#4ade80,font-family:monospace;
+    %% Cross-Subgraph System Flow Connections
+    A4 --> B1
+    B3 --> C1
+    C4 --> D1[FINISHED, QUIET COGNITIVE BASELINE]
 
-    %% Interactive Node Highlights
-    style A fill:#000000,stroke:#58a6ff,stroke-width:1px,color:#ffffff;
-    style B fill:#000000,stroke:#30363d,stroke-width:1px,color:#ffffff;
-    style E fill:#1f2937,stroke:#f87171,stroke-width:1px,color:#f87171;
-    style F fill:#111827,stroke:#f87171,stroke-width:1px,color:#ffffff;
-    style I fill:#14532d,stroke:#22c55e,stroke-width:1px,color:#4ade80;
+    %% Minimalist Dark System Aesthetics
+    classDef default fill:#161b22,stroke:#30363d,stroke-width:1px,color:#c9d1d9,font-family:monospace;
+    style Algorithmic_Capture fill:#1a1111,stroke:#f87171,stroke-width:1px,color:#f87171;
+    style Physical_Enclosure fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff;
+    style Visual_Viewport fill:#111c14,stroke:#22c55e,stroke-width:1px,color:#4ade80;
+    style D1 fill:#000000,stroke:#ffffff,stroke-width:2px,color:#ffffff;
 ```
 
 ---
