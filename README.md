@@ -75,14 +75,28 @@ graph TD
         F --> G[The Pull: Download Asset]
         G --> H[The Override: Set as Lock Screen]
         H --> I[The Constraint: 7-Day Unchanging State]
-        I -->|Communal Accountability / 1:1 Check-in| J[The Reset: Monday Drop]
+        I -->|Communal Accountability| J[The Reset: Monday Drop]
         J --> G
     end
 
-    %% Styling Elements
-    style Canvas_Matrix fill:#111,stroke:#333,stroke-width:2px;
-    style Physical_Chassis fill:#222,stroke:#555,stroke-width:2px;
-    style Monday_Drop_Loop fill:#0d1117,stroke:#58a6ff,stroke-width:2px;
+    %% ==========================================
+    %% MINIMALIST SYSTEM ARCHITECTURE STYLING
+    %% ==========================================
+    
+    %% Global Element Settings
+    classDef default fill:#161b22,stroke:#30363d,stroke-width:1px,color:#c9d1d9,font-family:monospace,font-size:11px;
+    
+    %% Specific Container Style Variables
+    style Canvas_Matrix fill:#090d13,stroke:#21262d,stroke-width:1px,stroke-dasharray: 3 3,color:#8b949e,font-family:monospace;
+    style Physical_Chassis fill:#090d13,stroke:#30363d,stroke-width:1px,color:#8b949e,font-family:monospace;
+    style Monday_Drop_Loop fill:#0d1117,stroke:#238636,stroke-width:1px,color:#4ade80,font-family:monospace;
+
+    %% Interactive Node Highlights
+    style A fill:#000000,stroke:#58a6ff,stroke-width:1px,color:#ffffff;
+    style B fill:#000000,stroke:#30363d,stroke-width:1px,color:#ffffff;
+    style E fill:#1f2937,stroke:#f87171,stroke-width:1px,color:#f87171;
+    style F fill:#111827,stroke:#f87171,stroke-width:1px,color:#ffffff;
+    style I fill:#14532d,stroke:#22c55e,stroke-width:1px,color:#4ade80;
 ```
 
 ---
