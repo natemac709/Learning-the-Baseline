@@ -53,6 +53,37 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 - **Mechanical Viewport Dimension:** 1.50" Height × 4.50" Width cut precisely in the lower third coordinate (33.3% from bottom edge).
 - **Retention Enclosure:** Left, right, and bottom borders driven tight with industrial oxidized steel screws. High-friction card slot left open exclusively at the top boundary.
 
+
+graph TD
+    %% Canvas Layer Definition
+    subgraph Canvas_Matrix [1290 × 2796 Canvas Matrix]
+        A[#000000 True-Black Canvas] --> B[Pure White Monospaced Typography]
+    end
+
+    %% Physical Hardware Chassis Layer
+    subgraph Physical_Chassis [Hardware Enclosure Prototype 001]
+        C[Top-Loading High-Friction Slot] --> D[Oxidized Steel Screw Borders]
+        D --> E[1.50 inch x 4.50 inch Mechanical Viewport]
+    end
+
+    %% Device Integration
+    B -->|Device Slides In| C
+    E -->|Locks Visual Field| F[Pinned Coordinates: y=1400 to y=1850]
+
+    %% The 7-Day Monday Drop Loop
+    subgraph Monday_Drop_Loop [Operational Control Loop]
+        F --> G[The Pull: Download Asset]
+        G --> H[The Override: Set as Lock Screen]
+        H --> I[The Constraint: 7-Day Unchanging State]
+        I -->|Communal Accountability / 1:1 Check-in| J[The Reset: Monday Drop]
+        J --> G
+    end
+
+    %% Styling Elements
+    style Canvas_Matrix fill:#111,stroke:#333,stroke-width:2px;
+    style Physical_Chassis fill:#222,stroke:#555,stroke-width:2px;
+    style Monday_Drop_Loop fill:#0d1117,stroke:#58a6ff,stroke-width:2px;
+
 ---
 
 ## 3. Operational Procedure (The Monday Drop Loop)
