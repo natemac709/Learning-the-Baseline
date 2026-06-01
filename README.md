@@ -69,13 +69,13 @@ graph TD
 
     %% Phase 3: Temporal Enforcement
     subgraph Phase_3 [3. TEMPORAL ENFORCEMENT]
-        C1[7-Day Immutable Lock Screen State] --> C2[Relational Accountability Check-In]
+        C1[7-Day Immutable State] --> C2[Relational Accountability]
         C2 --> C3[Systematic Reset Loop]
     end
 
-    %% System Architecture Flow
-    A3 ===>|Structural Integration| B1
-    B3 ===>|Operational Invariant| C1
+    %% Clean, Production-Safe System Flow Connections
+    A3 --> B1
+    B3 --> C1
 
     %% High-Dignity Architecture Styling
     classDef default fill:#111,stroke:#333,stroke-width:1px,color:#999,font-family:monospace;
