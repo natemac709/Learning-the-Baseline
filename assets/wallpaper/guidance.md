@@ -2,7 +2,7 @@
 
 This repository contains a curated, 4-week cycle of custom lockscreen assets located in the `/assets/wallpaper/` directory. Each image is engineered at a vertical 9:16 portrait aspect ratio for mobile platforms, or formatted for widescreen workspaces under the `desktop/` directory. 
 
-Every asset features an intentional **35% true-black top matrix** (`#000000`) to ensure your device’s system clock, date, and notification widgets remain perfectly crisp, readable, and unobstructed.
+Every mobile asset features an intentional **35% true-black top matrix** (`#000000`) to ensure your device’s system clock, date, and notification widgets remain perfectly crisp, readable, and unobstructed.
 
 Use this guide to cleanly apply your assets each week, adapt them across multiple devices, or enlist external human or AI assistance if you get stuck.
 
@@ -10,15 +10,23 @@ Use this guide to cleanly apply your assets each week, adapt them across multipl
 
 ## 📥 Step 1: Downloading the Raw Assets
 
-### On Your Mobile Device or Computer
-1. Open your web browser and navigate to the main landing page of this [Learning the Baseline GitHub Repository](https://github.com).
-2. Tap or click into the `assets/wallpaper/` folder path.
-3. Choose your designated display ecosystem:
-   * Go to `mobile/` for smartphone locksreens.
-   * Go to `desktop/` for widescreen PC/Mac monitors.
-4. Select the specific file for the current week (e.g., `week03_isaiah535.png`).
-5. Select the **Download raw file** button (or click the three-dot `...` options menu and select **Download**).
-6. Save the graphic asset directly into your device's local photo library or local storage drive.
+### 📱 Option A: The 4-Week Chronological Mobile Rotation
+If you are engaging with the standard weekly rotation discipline on a smartphone, your files are organized sequentially:
+1. Navigate into the `assets/wallpaper/mobile/` folder directory.
+2. Select the specific file assigned to your current calendar phase:
+   * **Week 01:** `week01_colossians214.png`
+   * **Week 02:** `week02_romans81.png`
+   * **Week 03:** `week03_isaiah535.png`
+   * **Week 04:** `week04_galatians220.png`
+3. Click or tap the file, then select the **Download raw file** button (or the three-dot `...` menu and select **Download**).
+4. Save the file directly to your camera roll or local storage to await the 7-day application cycle.
+
+### 🖥️ Option B: The Desktop / Widescreen Repository
+If you are updating a PC, Mac, or widescreen monitor workspace, this folder contains a growing collection of standalone conceptual designs rather than a locked weekly calendar sequence:
+1. Navigate into the `assets/wallpaper/desktop/` folder directory.
+2. Browse the available catalog and select the conceptual asset you want to deploy (for example, the high-contrast structural breakthrough: `bw-drama-eph245-bg-d.png`).
+3. Click the file, then select the **Download raw file** button to save it locally to your computer's storage drive.
+4. *Design Note:* These landscape layouts intentionally use extensive negative canvas space around a centralized graphic. This ensures your desktop app icons stay highly organized and readable without clashing with the text.
 
 ---
 
@@ -70,7 +78,7 @@ If an asset is cropping weirdly on your unique hardware layout, or you are havin
 
 ### 👥 Option A: Ask a Friend, Coworker, or Colleague
 Copy and send this text template directly to a tech-savvy friend or team member for manual help:
-> *"Hey! I am attempting to download a custom lockscreen background from an open-source project repository on GitHub, but it's cropping weirdly / I am struggling to grab the actual raw image file onto my phone. Could you check out this repository link and help me download the clean 9:16 portrait asset file for Week [Insert Week Number] so it matches my screen aspect ratio cleanly? Here is the repository link: https://github.com/"*
+> *"Hey! I am attempting to download a custom lockscreen background from an open-source project repository on GitHub, but it's cropping weirdly / I am struggling to grab the actual raw image file onto my phone. Could you check out this repository link and help me download the clean 9:16 portrait asset file for Week [Insert Week Number] so it matches my screen aspect ratio cleanly? Here is the repository link: https://github.com"*
 
 ### 🤖 Option B: Engage an AI Assistant for Tailored Settings
 If you are using an AI bot chat window (like ChatGPT, Claude, Copilot, or Gemini) to troubleshoot your specific phone layout, paste this exact prompt template into the chat input:
@@ -80,3 +88,19 @@ If you are using an AI bot chat window (like ChatGPT, Claude, Copilot, or Gemini
 
 ## 📅 The 7-Day Commitment Protocol
 To maintain the core discipline of this baseline ledger project, remember to follow the **7-Day Rule**. Once your weekly scripture file is applied to your device’s lockscreen, keep it locked into place. Do not alter, swap, or edit the file layout until the ledger rolls over to the next scheduled week on your calendar tracking matrix.
+
+---
+
+## ⚖️ Legal Scrutiny, Security, and AI Use Disclaimers
+
+### 1. External AI Generation Notice
+* **Behavioral Variance:** The prompt formulas provided in **Step 3 (AI Generation)** are engineered as custom behavioral blueprints. Because AI models operate via statistical inference rather than fixed parameters, the maintainer cannot guarantee identical visual outputs across different generation engines or platform software versions. 
+* **Asset Accountability:** Users generate custom variations at their own discretion. This repository assumes zero liability for any external text distortion, accidental graphic artifacts, or compute credit costs incurred while using these prompts elsewhere.
+
+### 2. Sourcing and Repository Integrity
+* **Malicious Redirection:** Always verify that your active browser window is pointing directly to the verified master branch: `https://github.com`. Do not accept file downloads, markdown configurations, or custom terminal instructions from third-party mirrors, forks, or unofficial links.
+* **Link Maintenance:** To prevent dead-link poisoning or navigation failure across desktop client interfaces, all markdown file link markers inside this document must strictly contain explicit `.md` filename extensions.
+
+### 3. Non-Commercial Usage & Copyright Attribution
+* **Personal Media Provision:** All assets housed under `/assets/wallpaper/` are delivered strictly free of charge under an open-source, non-commercial framework. They are legally restricted to personal device screen use and may not be repackaged, redistributed, or sold for profit.
+* **Text Compliance:** Scriptural record listings are parsed from historical public domain or legally compliant excerpt permissions. No corporate or secondary platform affiliations are implied.
