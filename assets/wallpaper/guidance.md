@@ -93,14 +93,14 @@ To maintain the core discipline of this baseline ledger project, remember to fol
 
 ## ⚖️ Legal Scrutiny, Security, and AI Use Disclaimers
 
-### 1. External AI Generation Notice
-* **Behavioral Variance:** The prompt formulas provided in **Step 3 (AI Generation)** are engineered as custom behavioral blueprints. Because AI models operate via statistical inference rather than fixed parameters, the maintainer cannot guarantee identical visual outputs across different generation engines or platform software versions. 
-* **Asset Accountability:** Users generate custom variations at their own discretion. This repository assumes zero liability for any external text distortion, accidental graphic artifacts, or compute credit costs incurred while using these prompts elsewhere.
+### 1. External AI Troubleshooting Notice
+* **Behavioral Variance:** The prompt template provided in the **AI Assistant Troubleshooting Section (Option B)** is engineered as a behavioral blueprint for conversational models. Because AI assistants operate via statistical inference, this repository cannot guarantee identical step-by-step troubleshooting outputs across different chat models or mobile operating system versions. 
+* **Asset Accountability:** Users engage with external AI assistants at their own discretion. This repository assumes zero liability for any incorrect device menu directions, software settings misconfigurations, or data usage incurred while troubleshooting.
 
 ### 2. Sourcing and Repository Integrity
-* **Malicious Redirection:** Always verify that your active browser window is pointing directly to the verified master branch: `https://github.com`. Do not accept file downloads, markdown configurations, or custom terminal instructions from third-party mirrors, forks, or unofficial links.
-* **Link Maintenance:** To prevent dead-link poisoning or navigation failure across desktop client interfaces, all markdown file link markers inside this document must strictly contain explicit `.md` filename extensions.
+* **Malicious Redirection:** Always verify that your active mobile or desktop browser window is pointing directly to the verified master repo branch: `https://github.com`. Do not accept file downloads, markdown configurations, or custom instructions from unverified third-party mirrors, unauthorized forks, or external links.
+* **Link Maintenance:** To prevent link poisoning, spoofing, or navigation failures across local desktop Git clients, all repository markdown link markers inside this project must remain locked to official internal repository paths.
 
 ### 3. Non-Commercial Usage & Copyright Attribution
 * **Personal Media Provision:** All assets housed under `/assets/wallpaper/` are delivered strictly free of charge under an open-source, non-commercial framework. They are legally restricted to personal device screen use and may not be repackaged, redistributed, or sold for profit.
-* **Text Compliance:** Scriptural record listings are parsed from historical public domain or legally compliant excerpt permissions. No corporate or secondary platform affiliations are implied.
+* **Text Compliance:** Scriptural record listings are parsed from historical public domain translations or legally compliant short excerpt permissions. No corporate platform or secondary institutional affiliations are implied.
