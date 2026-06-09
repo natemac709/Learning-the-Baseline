@@ -1,91 +1,82 @@
 # 📱 Learning the Baseline: Wallpaper Installation & Troubleshooting Guide
 
-This repository contains a curated, 4-week cycle of custom smartphone lockscreens located in the `/assets/wallpaper` directory. Each image is precisely engineered at a vertical 9:16 aspect ratio with a dedicated dark-matrix top layer to keep your device's system widgets crisp and legible.
+This repository contains a curated, 4-week cycle of custom lockscreen assets located in the `/assets/wallpaper/` directory. Each image is engineered at a vertical 9:16 portrait aspect ratio for mobile platforms, or formatted for widescreen workspaces under the `desktop/` directory. 
 
-Use this guide to cleanly update your device each week, troubleshoot common mobile scaling bugs, or enlist help from friends, tech support, or AI models.
+Every asset features an intentional **35% true-black top matrix** (`#000000`) to ensure your device’s system clock, date, and notification widgets remain perfectly crisp, readable, and unobstructed.
 
----
-
-## 📥 Step 1: Downloading the Assets
-
-### On Your Mobile Device (Recommended)
-1. Open your web browser and navigate to this [GitHub Repository](https://github.com).
-2. Tap into the `assets/wallpaper` folder.
-3. Tap on the specific asset file for the current week (e.g., `week01_colossians214.png`).
-4. Tap the **Download raw file** button (or the three dots `...` menu and select **Download**).
-5. Save the image directly to your device's local photo library or camera roll.
+Use this guide to cleanly apply your assets each week, adapt them across multiple devices, or enlist external human or AI assistance if you get stuck.
 
 ---
 
-## ⚙️ Step 2: Applying to Your Lockscreen
+## 📥 Step 1: Downloading the Raw Assets
 
-To ensure the text and structural framing line up perfectly, follow these system adjustments:
-
-### 🍏 iOS (iPhone)
-1. Open your **Photos app**, select the downloaded baseline wallpaper, and tap the **Share** icon.
-2. Select **Use as Wallpaper**.
-3. **Crucial Alignment Check:** Pinch-to-zoom out fully. Ensure the image is centered and *Perspective Zoom* or *Depth Effect* is toggled **OFF** if it tries to clip or hide the text behind your clock.
-4. Align your system clock widget into the empty, true-black top matrix. Tap **Done**.
-
-### 🤖 Android
-1. Long-press an empty space on your device's home screen and select **Wallpaper & Style**.
-2. Tap **Change Wallpapers** / **My Photos** and select the downloaded asset.
-3. Adjust the vertical positioning so the scripture text floats perfectly in the lower-mid quadrant, away from your notification tray.
-4. Uncheck "Wallpaper Motion Effect" or "Dynamic Scaling" if prompted, then tap **Apply to Lock Screen**.
-
-### 🌐 Alternative & De-Googled Operating Systems
-
-If you are using a security-focused fork or a custom Linux-based alternative platform, use these configurations to set your weekly baseline asset:
-
-#### 🔒 GrapheneOS / LineageOS / CalyxOS (Privacy-Focused Android Forks)
-1. Open your open-source gallery app (such as *Amaze*, *Simple Gallery*, or the default AOSP *Files* app).
-2. Open the downloaded wallpaper asset, tap the **Three-Dot Menu**, and select **Set as Wallpaper**.
-3. Choose **Lock Screen**. 
-4. *Tip:* If you use a custom launcher like *Nova Launcher* or *Lawnchair*, ensure "Wallpaper Scrolling" is toggled **OFF** in your desktop settings to prevent the scripture text from drifting off-center when you swipe.
-
-#### 🇨🇳 HarmonyOS (Huawei Devices)
-1. Open the **Gallery** app, choose the baseline image, and tap **More** > **Set as**.
-2. Select **Wallpaper** and choose **Lock Screen**.
-3. *Tip:* Disable "Magazine Unlock" or "Dynamic Lock Screen Layouts" in your *Settings > Home Screen & Wallpaper* panel to prevent the operating system from automatically overriding or cycling your baseline repository file.
-
-#### 🐧 Linux Mobile (Ubuntu Touch, Plasma Mobile, Mobian)
-1. **Ubuntu Touch:** Go to *System Settings > Background*, click *Add Graphic*, select your asset from the file tree, and tap **Lock Screen Only**.
-2. **Plasma Mobile:** Open *System Settings > Workspace > Wallpaper*, select the portrait asset, and ensure the scaling rule is configured to **"Scaled and Cropped"** or **"Centered"** to keep the text block fully intact.
+### On Your Mobile Device or Computer
+1. Open your web browser and navigate to the main landing page of this [Learning the Baseline GitHub Repository](https://github.com).
+2. Tap or click into the `assets/wallpaper/` folder path.
+3. Choose your designated display ecosystem:
+   * Go to `mobile/` for smartphone locksreens.
+   * Go to `desktop/` for widescreen PC/Mac monitors.
+4. Select the specific file for the current week (e.g., `week03_isaiah535.png`).
+5. Select the **Download raw file** button (or click the three-dot `...` options menu and select **Download**).
+6. Save the graphic asset directly into your device's local photo library or local storage drive.
 
 ---
 
-## 🖥️ Cross-Device Compatibility (Tablets, Laptops, & TVs)
+## ⚙️ Step 2: Applying the Wallpaper Across Different Platforms
 
-While the raw files in `assets/wallpaper/` are optimized specifically for vertical smartphone screens, you can safely deploy the baseline concept across your other everyday digital displays:
+### 🍏 iOS (iPhone & iPad)
+1. Open your native **Photos App**, choose the downloaded asset, and tap the **Share** button.
+2. Scroll down and select **Use as Wallpaper**.
+3. ⚠️ **Crucial Alignment Check:** Use a pinch-to-zoom out gesture on the screen to reveal the full framing. Ensure the text sits comfortably in the lower-mid quadrant.
+4. If your OS attempts to blur or slice the graphics, ensure **Perspective Zoom** and **Depth Effect** are toggled **OFF**. 
+5. Align your system clock cleanly inside the empty black top matrix, then select **Done**.
 
-### 📁 1. On Tablets & iPads
-Because tablets dynamically rotate between portrait and landscape modes, vertical walls can clip awkwardly.
-* **The Fix:** Go to your tablet's *Wallpaper Settings*, choose the asset, and use the pinch-to-zoom function to scale the image inward. Position the central scripture text completely inside the safe center boundaries so it remains fully visible whether the tablet is docked horizontally or held vertically.
+### 🤖 Android (Standard & Custom Launchers)
+1. Long-press any blank region on your phone’s home screen and choose **Wallpaper & Style**.
+2. Select **Change Wallpapers** or navigate to your local **My Photos / Gallery** source.
+3. Select your weekly baseline image asset.
+4. Position the graphic vertically so the scripture text avoids clipping your lower app bar or notification tray.
+5. Turn **OFF** any "Wallpaper Motion Effect", "Parallax Scroll", or "Dynamic Scaling" configurations if prompted, then select **Apply to Lock Screen**.
 
-### 💻 2. On Laptops & Desktops (Widescreen Displays)
-Setting a native 9:16 vertical smartphone image as a landscape computer desktop background will stretch the text sideways or crop the verse off entirely.
-* **The Fix:** Set your PC/Mac background setting to **"Fit to Screen"**, **"Center"**, or **"With Black Bars"**. This centers the vertical layout perfectly in the middle of your monitor, flanked by clean, solid black margins on the left and right—preserving your true-black screen space while keeping the layout readable.
+### 🔒 Privacy-Focused Android Forks (GrapheneOS / LineageOS / CalyxOS)
+1. Open your open-source gallery app (e.g., *Files*, *Amaze*, or *Simple Gallery*).
+2. Launch the target image file, tap your system's **Three-Dot Menu**, and select **Set as Wallpaper** > **Lock Screen**.
+3. *Launcher Override Tip:* If you use custom environments like *Nova Launcher* or *Lawnchair*, verify that "Wallpaper Scrolling" is toggled **OFF** in your launcher preferences panel to stop the text layout from shifting off-center when swiping.
 
-### 📺 3. On Smart TVs & Media Displays (Ambient Displays)
-You can cast your active weekly baseline asset to serve as an ambient screensaver or dashboard background on a TV.
-* **The Fix:** Upload the desired weekly asset to a dedicated album in **Google Photos** or **Apple iCloud**. Open your TV’s ambient/screensaver system settings (e.g., Apple TV, Google TV, or Samsung Ambient Mode) and point the source directly to that folder. The system will center the vertical artwork on your widescreen TV, framing the spiritual rebuttal perfectly in the center of the room.
+### 🇨🇳 HarmonyOS (Huawei Ecosystem)
+1. Navigate to your local **Gallery App**, pick the wallpaper file, and choose **More** > **Set as**.
+2. Select **Wallpaper** and bind it to your **Lock Screen Only**.
+3. *Layout Override Tip:* Go into your device's *Settings > Home Screen & Wallpaper* panel and disable **"Magazine Unlock"** or any active dynamic rotation settings to prevent the platform from automatically sliding your baseline file out of orientation.
+
+### 🐧 Linux Mobile (Ubuntu Touch, Plasma Mobile, Mobian)
+* **Ubuntu Touch:** Enter your *System Settings > Background*, tap *Add Graphic*, target your downloaded file via the system explorer, and toggle **Lock Screen Only**.
+* **Plasma Mobile:** Open *System Settings > Workspace > Wallpaper*, pick the portrait asset, and ensure your system rendering scale is locked to **"Scaled and Cropped"** or **"Centered"** to keep the core text boundaries fully intact.
 
 ---
 
-## 🆘 Stuck? How to Get Help
+## 🖥️ Cross-Device System Layouts (Tablets, Laptops, & Smart TVs)
 
-If an asset is cropping weirdly on your specific phone screen, or you are having trouble maneuvering the GitHub interface, choose a route below to get sorted:
+If you wish to carry your weekly baseline parameters onto alternative tech displays, implement these custom fitment rules to avoid awkward text stretching or distortion:
 
-### 👥 Option A: Ask a Friend or Colleague
-Copy and send this quick text message to a tech-savvy friend or coworker:
-> *"Hey! I'm trying to use a custom smartphone lockscreen from an open-source project called "Learning-the-Baseline" on GitHub, but it’s cropping weirdly / I'm having trouble downloading the raw image file onto my phone. Could you take a quick look at this repo link and help me download the raw 9:16 portrait asset for Week [Insert Week #] so it fits my screen cleanly? Here is the link: https://github.com/"*
-
-### 🤖 Option B: Engage an AI Assistant
-If you are using an AI bot (like ChatGPT, Gemini, or Copilot) to help you troubleshoot your specific device setup, copy and paste this exact prompt into the chat window:
-> **Prompt:** *"I am trying to apply a custom 9:16 portrait lockscreen wallpaper from a GitHub repository onto my [Insert your exact phone model, e.g., iPhone 15 Pro Max / Samsung S24 Ultra]. The image has a true-black top layer for the clock widget and text centered in the lower-middle quadrant. However, when I set it, my phone automatically stretches / crops out the text. Walk me through the exact menu settings on my specific device to disable automatic wallpaper scaling, turn off depth effects, and position this asset cleanly."*
+1. **Tablets & iPads:** Because tablets fluidly rotate orientations between portrait and landscape modes, navigate to your device's *Wallpaper Scaling Options* and use a pinch-to-zoom action to pull the image borders inward. Ensure the text block stays anchored in the dead center so it stays visible during physical screen rotation.
+2. **Laptops & Widescreen Desktop Monitors:** Setting a 9:16 vertical smartphone picture on a 16:9 computer display will warp the font. To fix this, change your computer's desktop background configuration rule from "Fill" to **"Fit to Screen"**, **"Center"**, or **"With Black Bars"**. This centers the layout cleanly on your monitor, bordered by clean, true-black columns on the left and right sides.
+3. **Smart TVs & Ambient Displays:** To display your active weekly file as an indoor screensaver dashboard, upload your repository assets into a dedicated folder inside **Google Photos** or **Apple iCloud**. Point your Smart TV or streaming box's background ambient engine directly to that digital photo album. The media server will center the graphic cleanly over your screen estate.
 
 ---
 
-## 📅 The 7-Day Commitment Reminder
-To maintain the structural integrity of the monthly ledger challenge, commit to the **7-Day Rule**. Once a weekly baseline asset is set on your lockscreen, lock it in place. Do not alter, swap, or remove the file until the ledger rolls over to the next scheduled week.
+## 🆘 Stuck? How to Get Help Instantly
 
+If an asset is cropping weirdly on your unique hardware layout, or you are having a tough time navigating the GitHub asset paths, copy and use one of the assistance scripts below to clear the hurdle:
+
+### 👥 Option A: Ask a Friend, Coworker, or Colleague
+Copy and send this text template directly to a tech-savvy friend or team member for manual help:
+> *"Hey! I am attempting to download a custom lockscreen background from an open-source project repository on GitHub, but it's cropping weirdly / I am struggling to grab the actual raw image file onto my phone. Could you check out this repository link and help me download the clean 9:16 portrait asset file for Week [Insert Week Number] so it matches my screen aspect ratio cleanly? Here is the repository link: https://github.com/"*
+
+### 🤖 Option B: Engage an AI Assistant for Tailored Settings
+If you are using an AI bot chat window (like ChatGPT, Claude, Copilot, or Gemini) to troubleshoot your specific phone layout, paste this exact prompt template into the chat input:
+> **Prompt:** *"I am trying to set up a custom 9:16 vertical portrait lockscreen file from an open-source GitHub project repository on my [Insert your exact phone model, e.g., iPhone 15 Pro Max / Samsung Galaxy S24 Ultra]. The wallpaper has an engineered true-black top matrix block for system widgets and a clean text block positioned in the lower-mid quadrant. However, when I apply it, my operating system automatically distorts/stretches the image or clips out the scripture text. Walk me through the exact menu steps on my specific hardware to completely shut off automatic wallpaper scaling, disable screen depth features, and position this portrait asset file cleanly."*
+
+---
+
+## 📅 The 7-Day Commitment Protocol
+To maintain the core discipline of this baseline ledger project, remember to follow the **7-Day Rule**. Once your weekly scripture file is applied to your device’s lockscreen, keep it locked into place. Do not alter, swap, or edit the file layout until the ledger rolls over to the next scheduled week on your calendar tracking matrix.
