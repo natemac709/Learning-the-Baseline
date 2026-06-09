@@ -13,8 +13,9 @@
   },
   "zoning_constraints": {
     "system_clock_buffer_top_px": 700,
-    "active_viewport_start_y_px": 1850,
-    "active_viewport_end_y_px": 2370,
-    "system_home_indicator_bottom_px": 420
+    "active_viewport_start_y_px": 1400,
+    "active_viewport_end_y_px": 1850,
+    "viewport_height_px": 450,
+    "system_home_indicator_bottom_px": 946
   }
 }
