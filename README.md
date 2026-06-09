@@ -1,4 +1,4 @@
-# Learning the Baseline: System Architecture & Project Charter
+# 🧭 Learning the Baseline: System Architecture & Project Charter
 
 An open-source, analog behavioral architecture framework designed to mitigate digital skimming pathology and cognitive triage anxiety through absolute physical containment.
 
@@ -7,30 +7,39 @@ An open-source, analog behavioral architecture framework designed to mitigate di
 ## ── UNIVERSAL HOME MANUAL ──
 ### For Kids, Parents, and Grandparents (Smart or Not)
 
-You do not need to know how to code, build software, or understand engineering to use this system. At its simplest, this framework is a **Digital Circuit Breaker** for your home. It is a shared family pact to protect our minds, our time, and our attention from being completely swallowed by glowing screens.
-
+You do not need to know how to code, build software, or understand engineering to use this system. At its simplest, this framework is a **Digital Circuit Breaker** for your home. It is a shared family pact to protect our minds, our time, and our attention from being completely swallowed by glowing screens. This project is not intended to pressure anyone into excessive or premature usage of advanced smartphone, tablet, or computer technology.
 
 | For Children 🎒 | For Parents & Grandparents 🏡 | For Every Household 💻 |
 | :--- | :--- | :--- |
-| **Look at your screen shield.** When you turn on your phone, look at the big words first. Remember that you are loved, you are secure, and you are free to put the phone down to play and think. | **Set a quiet baseline.** Help your child choose one single, unchanging truth or rule every Sunday night. Lock it onto their device to protect them from constant digital noise. | **Commit to the 7-Day Rule.** Once the weekly image is locked on the screen, no one changes it, tweaks it, or hides it for 7 full days. It becomes a shared family boundary. |
+| Look at your screen shield. When you turn on your phone, look at the big words first. Remember that you are loved, you are secure, and you are free to put the phone down to play and think. | Set a quiet baseline. Help your child choose one single, unchanging truth or rule every Sunday night. Lock it onto their device to protect them from constant digital noise. | Commit to the **7-Day Rule**. Once the weekly image is locked on the screen, no one changes it, tweaks it, or hides it for 7 full days. It becomes a shared family boundary. |
 
 ### The Concept: The Desk Shield & The Glass Viewport
-Think of this system like a heavy picture frame bolted directly onto a school desk, workspace, or kitchen table. Your phone slides deep inside it. 
-* **The Shield:** Covers up all the flashing apps, red notification dots, and distracting games.
-* **The Glass Window:** Only lets you see **one single line of text** sitting at the bottom of your screen, safely clearing your app shortcuts and search bars. 
-* **The Result:** For one whole week, that single line of text becomes your anchor. It forces the device to stop being a slot machine for your attention and turns it into a quiet tool that points you back to real-world relationships.
+Think of this system like a heavy picture frame bolted directly onto a school desk, workspace, or kitchen table. Your phone slides deep inside it.
+
+*   **The Shield:** Covers up all the flashing apps, red notification dots, and distracting games.
+*   **The Glass Window:** Only lets you see one single line of text sitting at the bottom of your screen, safely clearing your app shortcuts and search bars.
+*   **The Result:** For one whole week, that single line of text becomes your anchor. It forces the device to stop being a slot machine for your attention and turns it into a quiet tool that points you back to real-world relationships.
+
+---
+
+## 📂 Repository Architecture & Assets Directory
+
+To download the weekly graphics files or view specific device configuration workflows, navigate through the directory tree:
+
+*   **`assets/wallpaper/mobile/`**: Contains the chronological 4-week smartphone rotation assets.
+*   **`assets/wallpaper/desktop/`**: Contains the standalone widescreen monitor conceptual layouts.
+*   **👉 `assets/wallpaper/guidance.md`**: The master configuration, installation, and troubleshooting manual for all phone, tablet, laptop, and operating system platforms.
 
 ---
 
 ## 1. Executive Summary & Project Charter
 
 ### Executive Summary
-Modern digital environments treat human attention as an optimized asset to be mined through constant tracking checkboxes, notification streams, and high-velocity information loops. This infinite digital processing pipeline drives chronic cognitive exhaustion and performance anxiety. 
+Modern digital environments treat human attention as an optimized asset to be mined through constant tracking checkboxes, notification streams, and high-velocity information loops. This infinite digital processing pipeline drives chronic cognitive exhaustion and performance anxiety.
 
 Learning the Baseline is a non-commercial, open-source analog behavioral framework that rejects the digital optimization scorecard. By combining absolute physical containment with targeted digital scaffolding, the system isolates a single, unchanging historical text record behind a strict visual viewport for exactly seven days. It serves as a deliberate mental circuit breaker, cutting off peripheral noise to force an un-swipeable routine of cognitive deceleration, quiet reflection, and relational accountability.
 
 ### Project Charter
-
 
 | Charter Element | Operational Definition & System Constraints |
 | :--- | :--- |
@@ -38,58 +47,29 @@ Learning the Baseline is a non-commercial, open-source analog behavioral framewo
 | **Mission Objective** | To engineer absolute physical and environmental boundaries that disrupt digital skimming pathology and ground human attention in finished, historical truth. |
 | **Core Delivery Mechanism** | A public, version-controlled GitHub asset repository combined with a heavy, zero-compromise hardware desk enclosure. |
 | **Target End-User Base** | Exhausted professionals, students, and ministry operators experiencing severe cognitive fatigue from modern workflow velocity. |
-| **Capital Allocation Policy** | Strict \$0.00 public ad-spend and low-cost prototyping (\$20 kitchen-table operational floor) to protect strategic margins. |
+| **Capital Allocation Policy**| Strict $0.00 public ad-spend and low-cost prototyping ($20 kitchen-table operational floor) to protect strategic margins. |
 | **Fulfillment Strategy** | High-volume industrial manufacturing of universal matte-slate casing SKUs supported by local, automated 3PL logistics networks. |
 | **Legal/Compliance Guard** | Strict Opt-In Only mechanics. Absolute anonymity regarding corporate entities and individual personnel actions to fully insulate the enterprise from institutional liability. |
 
 ---
 
 ## 2. Visual & Hardware Specification Rules
-- **Canvas Matrix:** 1290 × 2796 pixels (#000000 True-Black canvas layer).
-- **Typography:** Pure White (#FFFFFF), geometric monospaced font (e.g., JetBrains Mono).
-- **Boundary Window:** Pinned strictly between vertical coordinates y=1400 and y=1850 (Calibrated for Google Pixel Android dock clearance).
+
+*   **Canvas Matrix:** $1290 \times 2796$ pixels (`#000000` True-Black canvas layer).
+*   **Typography:** Pure White (`#FFFFFF`), geometric monospaced font (e.g., JetBrains Mono).
+*   **Boundary Window:** Pinned strictly between vertical coordinates $y=1400$ and $y=1850$ (Calibrated for Google Pixel Android dock clearance).
 
 ### Physical Chassis Blueprint (Prototype No. 001)
-- **Mechanical Viewport Dimension:** 1.50" Height × 4.50" Width cut precisely in the lower third coordinate (33.3% from bottom edge).
-- **Retention Enclosure:** Left, right, and bottom borders driven tight with industrial oxidized steel screws. High-friction card slot left open exclusively at the top boundary. 
-
-```mermaid
-graph TD
-    %% Phase 1: Input Isolation
-    subgraph Phase_1 [1. INPUT ISOLATION]
-        A1[Target Text Selection] --> A2[True-Black Canvas Layer]
-        A2 --> A3[Complete Peripheral Occlusion]
-    end
-
-    %% Phase 2: Mechanical Intercept
-    subgraph Phase_2 [2. MECHANICAL INTERCEPT]
-        B1[Physical Device Enclosure] --> B2[Hardware Viewport Masking]
-        B2 --> B3[Forced Focal Alignment]
-    end
-
-    %% Phase 3: Temporal Enforcement
-    subgraph Phase_3 [3. TEMPORAL ENFORCEMENT]
-        C1[7-Day Immutable State] --> C2[Relational Accountability]
-        C2 --> C3[Systematic Reset Loop]
-    end
-
-    %% Clean, Production-Safe System Flow Connections
-    A3 --> B1
-    B3 --> C1
-
-    %% High-Dignity Architecture Styling
-    classDef default fill:#111,stroke:#333,stroke-width:1px,color:#999,font-family:monospace;
-    style Phase_1 fill:#0d1117,stroke:#21262d,stroke-width:1px,color:#c9d1d9;
-    style Phase_2 fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9;
-    style Phase_3 fill:#0d1117,stroke:#238636,stroke-width:1px,color:#4ade80;
-```
+*   **Mechanical Viewport Dimension:** $1.50\text{"}$ Height $\times$ $4.50\text{"}$ Width cut precisely in the lower third coordinate (33.3% from bottom edge).
+*   **Retention Enclosure:** Left, right, and bottom borders driven tight with industrial oxidized steel screws. High-friction card slot left open exclusively at the top boundary.
 
 ---
 
 ## 3. Operational Procedure (The Monday Drop Loop)
-1. **The Pull:** The user manually saves the current week's image asset from the `/assets` directory.
-2. **The Override:** The file must be applied as the device's default Lock Screen background for exactly 7 days.
-3. **The Constraint:** The thread functions as a public transit schedule. No interactive commentary or links are processed.
+
+1.  **The Pull:** The user manually saves the current week's image asset from the `/assets/wallpaper/mobile/` directory path.
+2.  **The Override:** The file must be applied as the device's default Lock Screen background for exactly 7 days.
+3.  **The Constraint:** The thread functions as a public transit schedule. No interactive commentary or links are processed.
 
 ---
 
@@ -98,31 +78,35 @@ graph TD
 To ensure the system remains deeply anchored in localized, high-trust community structures, the governance and deployment of the framework are guided by an anonymous board positioned across three essential operational sectors:
 
 ### I. Institutional & Educational Integration (Board Chair)
-- **Strategic Function:** Audits classroom workflows and institutional educational scale. This role coordinates the rollout of the universal matte-slate hardware casing as a permanent, high-dignity physical asset bolted directly to student desks. This transforms the device from a consumer gadget into foundational school infrastructure that shapes student character.
-- **Fulfillment Alignment:** Connects the project with regional educational foundations to convert individual unit consumer sales into large-scale institutional infrastructure grants.
+*   **Strategic Function:** Audits classroom workflows and institutional educational scale. This role coordinates the rollout of the universal matte-slate hardware casing as a permanent, high-dignity physical asset bolted directly to student desks. This transforms the device from a consumer gadget into foundational school infrastructure that shapes student character.
+*   **Fulfillment Alignment:** Connects the project with regional educational foundations to convert individual unit consumer sales into large-scale institutional infrastructure grants.
 
 ### II. Theological Alignment & Relational Accountability
-- **Strategic Function:** Validates the scriptural depth and pastoral alignment of the 52-week master card matrix. This role preserves the New Covenant integrity of the tool, ensuring the viewport window never acts as a legalistic daily performance checklist, but instead functions as a fixed anchor of absolute spiritual assurance.
-- **Relational Model:** Anchors the mandatory 1:1 face-to-face check-in rhythm within local community small groups and pastoral mentoring networks. This ensures the mechanical rewind process remains a communal exercise in mutual grace and restoration.
+*   **Strategic Function:** Validates the scriptural depth and pastoral alignment of the 52-week master card matrix. This role preserves the New Covenant integrity of the tool, ensuring the viewport window never acts as a legalistic daily performance checklist, but instead functions as a fixed anchor of absolute spiritual assurance.
+*   **Relational Model:** Anchors the mandatory 1:1 face-to-face check-in rhythm within local community small groups and pastoral mentoring networks. This ensures the mechanical rewind process remains a communal exercise in mutual grace and restoration.
 
 ### III. Behavioral Architecture & Business Operations
-- **Strategic Function:** Protects the unyielding physical resistance of the system layout. This role ensures the hardware metrics enforce a tangible, physical habits structure that directly counteracts screen fatigue.
-- **Operational Guard:** Reviews the technical 3PL logistics pipelines, inventory fulfillment loops, and product safety parameters to insulate the creator's independent runway. This role guarantees that the business model achieves a lean, scalable 85% master gross margin.
+*   **Strategic Function:** Protects the unyielding physical resistance of the system layout. This role ensures the hardware metrics enforce a tangible, physical habits structure that directly counteracts screen fatigue.
+*   **Operational Guard:** Reviews the technical 3PL logistics pipelines, inventory fulfillment loops, and product safety parameters to insulate the creator's independent runway. This role guarantees that the business model achieves a lean, scalable 85% master gross margin.
 
 ---
 
 ## 5. The 4-Week Trial Open-Source Ledger
-- **Week 01 Asset:** `assets/week01_colossians214.png`  
-  *RECORD_01 // COLOSSIANS 2:14 // STATUS: CANCELLED. IT IS DONE.*
-- **Week 02 Text:** *RECORD_02 // ROMANS 8:1 // STATUS: DECREE PERMANENT. NO CONDEMNATION.*
-- **Week 03 Text:** *RECORD_03 // ISAIAH 53:5 // STATUS: STRIKE REMOVED. THE CASE IS CLOSED.*
-- **Week 04 Text:** *RECORD_04 // GALATIANS 2:20 // STATUS: TIMELINE SATISFIED. RESET TO WEEK 01.*
+
+*   **Week 01 Asset:** `assets/wallpaper/mobile/week01_colossians214.png`
+    *   `RECORD_01 // COLOSSIANS 2:14 // STATUS: CANCELLED. IT IS DONE.`
+*   **Week 02 Text:** `assets/wallpaper/mobile/week02_romans81.png`
+    *   `RECORD_02 // ROMANS 8:1 // STATUS: DECREE PERMANENT. NO CONDEMNATION.`
+*   **Week 03 Text:** `assets/wallpaper/mobile/week03_isaiah535.png`
+    *   `RECORD_03 // ISAIAH 53:5 // STATUS: STRIKE REMOVED. THE CASE IS CLOSED.`
+*   **Week 04 Text:** `assets/wallpaper/mobile/week04_galatians220.png`
+    *   `RECORD_04 // GALATIANS 2:20 // STATUS: TIMELINE SATISFIED. RESET TO WEEK 01.`
 
 ---
 
-## Legal Disclaimer & Non-Commercial Notice
+## ⚖️ Legal Disclaimer & Non-Commercial Notice
+
 This framework is provided completely "as-is" for educational, non-commercial, open-source research purposes only. The author assumes no liability for digital device firmware stability, physical manufacturing injuries incurred during personal prototyping, or user attention outcomes. All scriptural records are utilized under fair-use commentary parameters. Learning the Baseline is an independent, non-commercial open-source research initiative. All product names, logos, and brands are property of their respective owners.
 
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share and adapt this material for non-commercial purposes, provided appropriate credit is given.
+### License
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. You are free to share and adapt this material for non-commercial purposes, provided appropriate credit is assigned.
