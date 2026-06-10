@@ -104,3 +104,11 @@ To maintain the core discipline of this baseline ledger project, remember to fol
 ### 3. Non-Commercial Usage & Copyright Attribution
 * **Personal Media Provision:** All assets housed under `/assets/wallpaper/` are delivered strictly free of charge under an open-source, non-commercial framework. They are legally restricted to personal device screen use and may not be repackaged, redistributed, or sold for profit.
 * **Text Compliance:** Scriptural record listings are parsed from historical public domain translations or legally compliant short excerpt permissions. No corporate platform or secondary institutional affiliations are implied.
+
+## Legal Attribution & Case Study Disclaimer
+
+The visual components utilized in this design wave are structured strictly for educational portfolio display, demonstrating multi-platform responsiveness and Ambient Experience Design (AxD).
+
+* **Trademark Ownership:** All corporate names, brand markers, and associated identity logos utilized within these conceptual mockups are the exclusive property of their respective trademark owners (e.g., Capitol Hill Baptist Church / Brandfetch data packages).
+* **No Affiliation:** This project is a completely independent design exploration. This repository is not sponsored, endorsed, or officially affiliated with the organization featured in the conceptual assets.
+* **Usage Intent:** Media compiled within this repository falls under Nominative Fair Use principles, showcasing layout structural adaptation across unconventional digital environments rather than distributing proprietary materials.
