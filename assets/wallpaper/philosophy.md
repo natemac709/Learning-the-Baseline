@@ -33,6 +33,12 @@ Because these canvases live in real physical rooms and specialized rendering eng
 * **Lean-Back Displays:** We utilize deep, low-luminance tones that soften ambient room lighting in dim living rooms.
 * **Virtual Environments:** We isolate colors into flat, solid blocks so they do not transform into compressed artifact mud when processed by game server engines.
 
+## Brand Alignment: Institutional Classicism
+This asset wave uses the text-driven principles of historical community institutions to inform its canvas constraints:
+1. Geometry: Fixed, architectural line weights that prioritize permanence over digital trends.
+2. Palette: Dominant historical tones (Deep Slate Blue, Liturgical Olive Green) paired with High-Contrast Cream text to preserve reading clarity across messy device environments.
+3. Density: Stripping away decorative illustrations to mirror the brand’s focus on clear, unadorned typography.
+
 ---
 
 ## Technical Execution
