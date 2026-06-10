@@ -37,3 +37,10 @@ Because these canvases live in real physical rooms and specialized rendering eng
 
 ## Technical Execution
 Every asset in this library is mathematically mapped to respect hardware overlays, system menus, and compression limitations, ensuring the philosophical intent survives the constraints of the physical and digital world.
+
+---
+
+### Case Study Orientation: Institutional & Ministry Context (e.g., CHBC)
+To demonstrate the adaptability of Ambient Experience Design (AxD), this asset wave maps the timeless, reverent values of institutional ministry branding into modern digital spaces:
+* **Chrominance:** Transitioning from loud RGB screen palettes to a historical palette of Deep Navy, Warm Cream, and Brushed Amber to establish environmental calm.
+* **Typography:** Merging classical Serif structural geometry (representing Truth/Heritage) with clean modern layout padding to preserve readability across high-distraction hardware.
