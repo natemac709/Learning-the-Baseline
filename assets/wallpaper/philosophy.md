@@ -50,3 +50,13 @@ Every asset in this library is mathematically mapped to respect hardware overlay
 To demonstrate the adaptability of Ambient Experience Design (AxD), this asset wave maps the timeless, reverent values of institutional ministry branding into modern digital spaces:
 * **Chrominance:** Transitioning from loud RGB screen palettes to a historical palette of Deep Navy, Warm Cream, and Brushed Amber to establish environmental calm.
 * **Typography:** Merging classical Serif structural geometry (representing Truth/Heritage) with clean modern layout padding to preserve readability across high-distraction hardware.
+
+---
+
+## Legal Attribution & Case Study Disclaimer
+
+The visual components utilized in this design wave are structured strictly for educational portfolio display, demonstrating multi-platform responsiveness and Ambient Experience Design (AxD).
+
+* **Trademark Ownership:** All corporate names, brand markers, and associated identity logos utilized within these conceptual mockups are the exclusive property of their respective trademark owners (e.g., Capitol Hill Baptist Church / Brandfetch data packages).
+* **No Affiliation:** This project is a completely independent design exploration. This repository is not sponsored, endorsed, or officially affiliated with the organization featured in the conceptual assets.
+* **Usage Intent:** Media compiled within this repository falls under Nominative Fair Use principles, showcasing layout structural adaptation across unconventional digital environments rather than distributing proprietary materials.
