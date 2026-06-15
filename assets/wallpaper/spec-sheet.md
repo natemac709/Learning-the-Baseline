@@ -121,6 +121,19 @@ Below are the exact dimensions, structural boundaries, compositions, and behavio
 
 ---
 
+### Directory: `monument/`
+
+#### Asset 9: Universal Ancient Structural Skin
+*   **Dimensions**: 7680 x 4320 px (Scalable 8K Horizontal Projection Grid).
+*   **Target Infrastructure**: Ancient or historic stone, brick, timber, or mud-brick facades (e.g., pyramids, ancient temples, classic masonry halls, ruins).
+*   **Primary Engineering Intent**: Transforming a historic public monument into a living visual anchor of peace, using the structure's physical masonry as the grid system.
+*   **Active Architectural Mapping Constraints**:
+    *   **The Material Gutter Rule**: The projection engine must treat physical masonry seams, joints, or heavy pillars as natural margins. Text rows must nest cleanly *inside* flat stone surfaces or between structural columns.
+    *   **The Texture Adaptability Check**: No soft digital shadows or complex shapes. Visual elements must stay restricted to flat, sharp geometric lines (using Olivetone `#7B8B0F`). This allows the design to read cleanly over textured surfaces like ancient brick, rough granite, or weathered timber without blurring.
+    *   **Luminance Cap**: Total light output must be strictly limited to a matte, non-glare finish. This respects the historic building material and prevents light pollution in the surrounding community.
+
+---
+
 ## Part 3: The Design Execution Blueprint
 
 When drafting the visual composition for these assets, execute them using this strict developmental sequence:
