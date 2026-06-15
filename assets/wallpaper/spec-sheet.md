@@ -134,6 +134,62 @@ Below are the exact dimensions, structural boundaries, compositions, and behavio
 
 ---
 
+### Directory: `e-panel/`
+
+#### Asset 9: Static E-Ink Ambient Plaquard
+*   **Dimensions**: 2560 x 1600 px
+*   **Aspect Ratio**: 16:10 (Standard Portrait/Landscape Electronic Ink Panel)
+*   **Format Constraint**: Strict 1-bit or grayscale bitmap output profile optimized for electrophoretic reflective displays; zero anti-aliasing or pixel-blending to prevent micro-text blurring.
+*   **Structural Layout**: Total Perimeter Framing.
+    *   *System Overlay Zone (Outer 40px Rim)*: Keep entirely clear to match the physical bevel or wooden housing frame of the device.
+    *   *Safe/Anchor Zone*: The inner text canvas container.
+*   **Editorial Composition**: Set the canvas to a flat, untextured `Warm White` layer. Construct a clean, double-ruled geometric border frame using a `1px` thick line in pure `True Black` or deep `Everglade` green. Center a short, authoritative, two-line serif statement or citation precisely in the middle of the frame.
+*   **Disruption Goal**: Converts an active digital screen into a completely passive, zero-glare, stone-like decorative plaque that blends seamlessly into the physical furniture or woodwork of a quiet home study or library.
+
+---
+
+### Directory: `pillar/`
+
+#### Asset 10: Standalone Floor Kiosk Matrix
+*   **Dimensions**: 1080 x 2340 px
+*   **Aspect Ratio**: 9:19.5 (Vertical Standalone Enclosure)
+*   **Format Constraint**: High-fidelity, sharp compression profile to ensure high-contrast legibility for close-in, face-to-face foot traffic.
+*   **Structural Layout**: Central Column Isolation Block.
+    *   *System Overlay Zone (Top/Bottom 400px)*: Keep entirely clear of text to account for heavy physical finger-smudging, ambient light reflections, or device touch menus.
+    *   *Safe/Anchor Zone (Center Gutter)*: Pinned exactly between `y = 400px` and `y = 1940px`.
+*   **Editorial Composition**: Set the background to a solid field of deep `Everglade` green. Construct a rigid, vertical text column centered in the gutter, bordered by thin, vertical `Olivetone` lines running top to bottom. Text lines inside this column must be strictly clamped to a 40-character maximum measure using a crisp Serif font scale.
+*   **Disruption Goal**: Interrupts the routine process of checking in at a lobby, hospital wayfinder, or registration podium with a highly ordered, reverent typographic sanctuary window.
+
+---
+
+### Directory: `transit/`
+
+#### Asset 11: Environmental Transit Pylon Facade
+*   **Dimensions**: 2160 x 3840 px
+*   **Aspect Ratio**: 9:16 (High-Scale Vertical Infrastructure Pylon)
+*   **Format Constraint**: High-bit-depth pixel values to prevent color banding across massive public emissive outdoor screens.
+*   **Structural Layout**: Top-Biased High Clearance.
+    *   *System Overlay Zone (Bottom 50%)*: `1920px` to `3840px` vertically. Keep this entire lower zone a solid, flat, un-moving field of `True Black` or deep `Everglade` green to clear physical visual interference from passing vehicles, crowds, or transit text tickers.
+    *   *Safe/Anchor Zone (Top 50%)*: Locked cleanly between `y = 0px` and `y = 1920px` to match the elevated line-of-sight of travelers.
+*   **Editorial Composition**: Flood the upper safe canvas with a low-luminance `Everglade` backdrop. Center a single core phrase from the scripture payload using massive, elegant `Warm White` Serif typography. Diagonal lines or accent structural marks must use simple, unblended stair-steps to prevent pixel tearing on low-density LED arrays.
+*   **Disruption Goal**: Transforms a high-stress, frantic transit hub or urban walking path into an unhurried, peaceful landmark, providing immediate visual relief for tired commuters and workers.
+
+---
+
+### Directory: `liturgy/`
+
+#### Asset 12: Architectural Stage Projection Sheet
+*   **Dimensions**: 3840 x 1080 px
+*   **Aspect Ratio**: 32:9 (Ultra-Wide Panorama Stage Canvas)
+*   **Format Constraint**: High-contrast, low-luminance rendering to prevent light leak or wash-out from physical stage lights.
+*   **Structural Layout**: Extreme Lower-Right Corner Shift.
+    *   *System Overlay Zone (Left/Center 75%)*: Keep this vast expanse a flat, solid field of deep `Everglade` green or strict black to leave room for human interaction, speakers, or sanctuary architectural features.
+    *   *Safe/Anchor Zone (Lower-Right 25%)*: Locked tightly along the bottom right margins.
+*   **Editorial Composition**: Apply a minimal, highly contrastive geometric line pattern (using fine `1px` lines in `Olivetone`) that mirrors the natural architectural lines or roof pitch of the gathering space. Within the lower-right safe quadrant, place a single citation and reference in clean, thin `Warm White` Serif typography, leaving massive padding around the text block.
+*   **Disruption Goal**: Replaces chaotic, moving video loops or flashing church media banners with a quiet, motionless, and deeply reverent architectural backdrop that respects the sanctity of the room.
+
+---
+
 ## Part 3: The Design Execution Blueprint
 
 When drafting the visual composition for these assets, execute them using this strict developmental sequence:
