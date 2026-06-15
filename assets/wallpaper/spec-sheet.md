@@ -109,6 +109,16 @@ Below are the exact dimensions, structural boundaries, compositions, and behavio
 *   **Editorial Composition**: Apply a minimal, highly contrastive geometric line illustration (such as stark, radiating linear strokes or an architectural silhouette) rendered in crisp `Olivetone` across the top horizon. Within the lower safe zone, position a single core phrase from the scriptural payload in massive, elegant `Warm White` Serif typography. Anchor the exact citation directly underneath in a single row of all-caps `Monospace`.
 *   **Disruption Goal**: Transforms a high-stress, frantic commercial corridor or concrete transit plaza into a permanent digital stone monument. It provides immediate low-luminance relief, lowering eye strain for local commuters, transit neighbors, and workers on the street.
 
+#### Asset 8: Spherical Architectural Projection (Exosphere Blueprint)
+*   **Dimensions**: 8192 x 4096 px (or native 8K x 4K Equirectangular projection map layout).
+*   **Aspect Ratio**: 2:1 Polar Grid Wrap (For 360-degree geodesic geodesic surfaces).
+*   **Format Constraint**: Rendered with strict solid-fill vector rendering blocks; zero blending gradients or smooth shadow drop-offs to prevent dynamic pixel tearing across 1.2 million physical LED modules.
+*   **Structural Layout**: Polar Asymmetric Bottom Inset.
+    *   *System Overlay Zone (Upper 70% Hemisphere)*: This vast dome curve is flooded with a completely solid field of deep, low-luminance `Everglade` green. It forms an unmoving canopy of silent color over the city skyline, swallowing glare and acting as a physical circuit breaker for the strip.
+    *   *Safe/Anchor Zone (Lower 30% Equator Rim)*: Pinned exclusively around the lower horizontal tracking base of the hemisphere ($y = 2867\text{px}$ to $y = 4096\text{px}$) to align with the direct line-of-sight of pedestrians and drivers on the street level.
+*   **Editorial Composition**: Construct a continuous, minimalist `Olivetone` single-line frame wrapping entirely around the lower rim like an ancient stone base molding. Inside this lower band, position a single, high-contrast core phrase in authoritative `Warm White` Serif typography. Diagonal cross-lines or abstract structural shapes must use simple perfect stair-steps to prevent pixel-blur on the low-density external LED array.
+*   **Disruption Goal**: Converts a hyper-frenzied commercial entertainment dome into a permanent, unmoving stone-like monument of absolute silence. It acts as a massive public sanctuary window that cools the local atmosphere and completely restores intentional focus to visitors and workers on the ground.
+
 ---
 
 ## Part 3: The Design Execution Blueprint
