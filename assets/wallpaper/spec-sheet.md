@@ -97,6 +97,20 @@ Below are the exact dimensions, structural boundaries, compositions, and behavio
 
 ---
 
+### Directory: `billboard/`
+
+#### Asset 7: Monumental Structural Facade
+*   **Dimensions**: 7680 x 4320 px
+*   **Aspect Ratio**: 16:9 (Ultra-HD Large-Format LED Grid)
+*   **Format Constraint**: Rendered with raw, high-bit-depth pixel values to prevent color banding on large-scale urban outdoor emissive screens.
+*   **Structural Layout**: Lower-Right Asymmetric Weight (The Daypack Shift).
+    *   *System Overlay Zone (Top/Left 60%)*: `0px` to `4608px` horizontally. Leave this expansive area as a solid, unmoving field of deep `Everglade` green. This provides macro-scale breathing room and isolates the display from surrounding ambient urban noise.
+    *   *Safe/Anchor Zone (Lower-Right 40%)*: `4608px` to `7680px` horizontally, locked between `y = 2160px` and `y = 4320px`.
+*   **Editorial Composition**: Apply a minimal, highly contrastive geometric line illustration (such as stark, radiating linear strokes or an architectural silhouette) rendered in crisp `Olivetone` across the top horizon. Within the lower safe zone, position a single core phrase from the scriptural payload in massive, elegant `Warm White` Serif typography. Anchor the exact citation directly underneath in a single row of all-caps `Monospace`.
+*   **Disruption Goal**: Transforms a high-stress, frantic commercial corridor or concrete transit plaza into a permanent digital stone monument. It provides immediate low-luminance relief, lowering eye strain for local commuters, transit neighbors, and workers on the street.
+
+---
+
 ## Part 3: The Design Execution Blueprint
 
 When drafting the visual composition for these assets, execute them using this strict developmental sequence:
